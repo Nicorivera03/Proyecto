@@ -1,0 +1,93 @@
+
+html{
+
+	margin: 0px;
+	padding: 0px;
+	font-size: 16px;
+
+}
+
+body {
+
+	background: url(../images/seventies.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background: cover;
+	transition: all.7s;
+}
+
+
+
+.container{
+
+	width: 320px;
+	height: 350px;
+	text-align: center;
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-top: 150px;
+	box-shadow: 1px -3px 20px #000000;
+	
+
+}
+
+h1{
+
+	text-align: center;
+
+}
+
+.container img{
+
+	width: 120px;
+	height: 120px;
+	margin-top: -60px;
+	
+
+}
+
+.container{
+
+	background: rgba(255, 255, 255,0.3);
+}
+
+input-48{
+
+	width: 48%;
+}
+
+#username{
+
+	margin-bottom: 10px;
+	box-shadow: 1px -3px 20px #000000;
+}
+
+#password{
+
+	margin-bottom: 10px;
+	box-shadow: 1px -3px 20px #000000;	
+
+}
+
+#mail{
+
+	margin-bottom: 10px;
+	box-shadow: 1px -3px 20px #000000;
+}	
+
+
+
+#submit{
+
+	margin:10px;
+
+	margin-bottom: 10px;
+	box-shadow: 1px -3px 20px #000000;
+}
+
+#phone{
+
+	margin-bottom: 10px;
+	box-shadow: 1px -3px 20px #000000;
+}
+
